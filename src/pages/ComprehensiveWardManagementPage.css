@@ -1,0 +1,14 @@
+.main-content {
+    display: flex;
+  }
+  
+  .left-panel {
+    flex: 1; /* Take up 1 portion of the space */
+    /* Add padding, margins, and any other styles */
+  }
+  
+  .right-panel {
+    flex: 2; /* Take up 2 portions of the space, or adjust as necessary */
+    /* Add padding, margins, and any other styles */
+  }
+  
